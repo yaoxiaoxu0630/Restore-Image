@@ -1,4 +1,4 @@
-#Elimination noise in frequency and location domain 
+#Elimination noise in frequency and spatial domain 
 
 ![spatial domain](https://github.com/yasin-sharafi/Restore-Image/blob/master/1.png)
 spatial domain
